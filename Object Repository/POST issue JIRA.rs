@@ -12,26 +12,7 @@
    <httpBodyContent>{
   &quot;contentType&quot;: &quot;multipart/form-data&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;,
-  &quot;parameters&quot;: [
-    {
-      &quot;name&quot;: &quot;title&quot;,
-      &quot;value&quot;: &quot;foo&quot;,
-      &quot;type&quot;: &quot;Text&quot;,
-      &quot;contentType&quot;: &quot;&quot;
-    },
-    {
-      &quot;name&quot;: &quot;body&quot;,
-      &quot;value&quot;: &quot;bar&quot;,
-      &quot;type&quot;: &quot;Text&quot;,
-      &quot;contentType&quot;: &quot;&quot;
-    },
-    {
-      &quot;name&quot;: &quot;userId&quot;,
-      &quot;value&quot;: &quot;1&quot;,
-      &quot;type&quot;: &quot;Text&quot;,
-      &quot;contentType&quot;: &quot;&quot;
-    }
-  ]
+  &quot;parameters&quot;: []
 }</httpBodyContent>
    <httpBodyType>form-data</httpBodyType>
    <httpHeaderProperties>
