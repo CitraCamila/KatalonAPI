@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify successfuly get JIRA issue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b49dbf14-3d1e-48bd-a0cf-a4c93d534b14</testCaseGuid>
+</TestCaseEntity>
